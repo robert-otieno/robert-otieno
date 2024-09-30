@@ -4,13 +4,13 @@
 I specialize in building enterprise solutions for startups, SMEs, and business organizations through my company Amcy Technologies. With a background in Library and Information Studies, a Master's in Computer-Based Information Systems, and current training in Technical Trainer Education, I bring a unique blend of knowledge and experience to my development and training roles.
 -->
 ### 👨‍💻 Technologies & Skills
-Front-end: React, Next.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS, Bootstrap
-Back-end: Node.js, Express.js, PHP, Python
-Databases: MySQL, MongoDB, PostgreSQL
-Mobile Development: React Native/Expo CLI
-DevOps: Git, GitHub
-CMS: WordPress, Hygraph
-Others: API Integration, Markdown handling, Cloud services
+- Front-end: React, Next.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS, Bootstrap
+- Back-end: Node.js, Express.js, PHP, Python
+- Databases: MySQL, MongoDB, PostgreSQL
+- Mobile Development: React Native/Expo CLI
+- DevOps: Git, GitHub
+- CMS: WordPress, Hygraph
+- Others: API Integration, Markdown handling
 
 ### 🌱 What I'm Currently Learning
 - Advanced Next.js concepts for building scalable eCommerce platforms
